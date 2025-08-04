@@ -1,4 +1,4 @@
-# ArduinoIDE
+# ArduinoIDE x64
 
 # Paste to CMD
 ```
